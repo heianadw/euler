@@ -1,2 +1,3 @@
 # euler
-this is fun
+this is fun a project
+
